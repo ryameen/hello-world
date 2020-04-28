@@ -1,2 +1,2 @@
 # hello-world
-This is my first GitHub repository.
+My name is Rubaiyat Yameen. I am an aspiring biochemist/molecular biologist currently working in a virology lab in icddr,b. I would like to gain skills to do rigorous research in the life sciences. Currently I am interested in working in infectious diseases. I am learning computer programming in order to diversify my practical and analytical skill-set in order to do sophisticated research and analysis into life sciences, specifically genomics, bioinformatics, statistics, epidemiology etc. but looking to build these skills onto a more data science and machine learning oriented computational biology approaches.
